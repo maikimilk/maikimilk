@@ -1,29 +1,56 @@
-# 👋 Hi, I'm maikii (maikimilk)
+# 🐾 Hello, I'm maikii (maikimilk)! 🐾
 
-🐱 I'm a developer exploring the intersection of AI, Web, and system programming.
+<img src="https://user-images.githubusercontent.com/123456/your-cat-image.png" width="200" align="right">
 
-## 🛠 Tech Stack
-- 🧠 **Machine Learning / Deep Learning:** Python, PyTorch, Vision Transformers
-- ⚙️ **System Programming:** Rust
-- 🌐 **Web Development:** React, Next.js, TypeScript
-- ☁️ **Cloud:** Google Cloud Platform (GCP), Vision API
+🐱 A cat-loving developer passionate about exploring tech and nature.  
+🌌 Fascinated by space, defense technology, drones, and AI.  
+🌿 Enjoy hiking and spending time in nature to recharge.
+
+---
+
+## 🛠️ Tech Stack
+
+- 🧠 **AI / Machine Learning / Deep Learning**: Python, PyTorch, Vision Transformers, GCP Vision API
+- 🦀 **System Programming**: Rust
+- 🌐 **Web Development**: React, Next.js, TypeScript
+- ☁️ **Cloud**: Google Cloud Platform (GCP), Vercel
+
+---
 
 ## 🚀 Recent Projects
-- 📄 [ViT-NormReg-Compressor](https://github.com/maikimilk/ViT-NormReg-Compressor): Implementation of "Norm-Regularized Token Compression" for Vision Transformers
-- 🦀 [RustCapsule](https://github.com/maikimilk/RustCapsule): Rust CLI and utility experiments
-- 📊 [KyuyoBiyori](https://github.com/maikimilk/KyuyoBiyori): A web app for uploading and analyzing payslips with Vision API and React
 
-## 🌱 Currently Learning
-- Advanced Rust patterns and async programming
-- Full-stack app architecture with Next.js and GCP
-- Modern ML techniques in vision and NLP
+- 🛰️ [ViT-NormReg-Compressor](https://github.com/maikimilk/ViT-NormReg-Compressor): Implementation of token compression techniques for Vision Transformers
+- 🦀 [RustCapsule](https://github.com/maikimilk/RustCapsule): Experiments with Rust CLI tools and utilities
+- 📄 [KyuyoBiyori](https://github.com/maikimilk/KyuyoBiyori): Payslip analyzer web app using Vision API and React
+
+---
+
+## 🌟 Interests
+
+- 🌌 Space, defense technology, drones
+- 🐾 Creative projects with AI
+- 🏞️ Nature and hiking
+- 🐈 Admiring cute cats
+
+---
 
 ## 🎯 Goals
-- Contribute more to open source projects
-- Build useful and delightful web tools
-- Explore research-oriented AI implementations
 
-## 💬 Connect
-Feel free to reach out or check out my repositories!
+- Contribute more to open source
+- Build new tools that combine AI ✕ Web ✕ Rust
+- Create a workflow that allows coding even in nature 🌲 + 💻
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maikimilk&show_icons=true&theme=tokyonight)
+---
+
+## 💬 Let's connect!
+
+Feel free to star, open issues, or just say hello 🐾.  
+🌟 **Let's build cool things together!** 🌟
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maikimilk&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&hide=prs)
+
+---
+
+> 🐱 Powered by curiosity and a love for cats.
