@@ -1,6 +1,6 @@
 # 🐾 Hello, I'm maikii (maikimilk)! 🐾
 
-<img src="https://user-images.githubusercontent.com/123456/your-cat-image.png" width="200" align="right">
+<img src="https://github.com/maikimilk/profile-assets/blob/main/IMG_6878.jpg?raw=true width="200" align="right">
 
 🐱 A cat-loving developer passionate about exploring tech and nature.  
 🌌 Fascinated by space, defense technology, drones, and AI.  
